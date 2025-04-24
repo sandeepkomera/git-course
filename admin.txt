@@ -1,0 +1,3 @@
+admin can add and delete the user
+admin is the final authority
+admin has all rights
